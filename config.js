@@ -11,5 +11,5 @@ const CONFIG = {
     mess: 'T biết, m cũng là người đặc biệt mà <3',
     messDesc: 'Mình tìm hỉu nheee :P',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://huyconn.github.io/WomenDay/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    Link: 'https://huyconn.github.io/WomenDay/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
