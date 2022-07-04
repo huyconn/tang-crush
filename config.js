@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'M ơi!',
     btnIntro: 'Gì thế',
-    title: 'M có muốn gần t hơn không',
-    desc: ' ',
-    btnYes: 'T muốnnnn',
+    title: 'M có muốn gần t hơn không ?',
+    desc: '❤❤❤❤❤ ',
+    btnYes: 'T muốnnnn ❤',
     btnNo: 'Không muốnnn :3',
     question:'Vì sao m muốn gần t hơn <3',
     btnReply: 'Gửi <3',
