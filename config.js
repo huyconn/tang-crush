@@ -11,5 +11,5 @@ const CONFIG = {
     mess: 'T biết, m cũng là người đặc biệt mà <3',
     messDesc: 'Mình tìm hỉu nheee :P',
     btnAccept: 'Okiiiii lun <3',
-    link: 'https://huyconn.github.io/WomenDay/' ,
+    link: 'https://bom.so/3F4XIO' ,
 }
